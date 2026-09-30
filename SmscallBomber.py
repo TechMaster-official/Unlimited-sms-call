@@ -1699,7 +1699,7 @@ async def _main():
 if __name__ == "__main__":
     print(f"{_c['g']}🚀 Starting Ultimate 34+ API SMS Bomber...{_c['e']}")
     print(f"{_c['c']}📱 Termux/Mobile Optimized Slow Version{_c['e']}")
-    print(f"{_c['p']}Created by: @@8Team/W8SOJIB{_c['e']}\n")
+    print(f"{_c['p']}Created by: Tech Master{_c['e']}\n")
     
     try:
         asyncio.run(_main())
